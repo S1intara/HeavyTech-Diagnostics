@@ -21,6 +21,18 @@ The application uses Python for its logic and SQLite for persistent data storage
 - Search reports by problem keywords
 - Store records in a local SQLite database
 
+## Screenshots
+
+### Main Menu
+![Main menu](screenshots/main-menu.png)
+
+### Service Report
+![Service report](screenshots/service-report.png)
+
+### Search and Service History
+![Search and service history](screenshots/search-history.png)
+
+
 ## Technologies
 
 - **Python** — application logic and input validation
