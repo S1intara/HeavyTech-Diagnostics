@@ -1,0 +1,20 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Local databases and service history
+*.db
+*.sqlite
+*.sqlite3
+history.txt
+
+# Environment variables and secrets
+.env
